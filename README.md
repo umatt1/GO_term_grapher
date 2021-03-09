@@ -11,4 +11,5 @@ python ./graph_genes_within_goterm.py GO:0042393 dummydata1 dummydata2
 python ./graph_genes_within_goterm.py GO:00044012 dummydata3 dummydata4
 python ./graph_several_goterms.py several_goterms.txt dummydata3 dummydata4
 
-If you include a goterm and it doesn't have any genes associated with it, the graph will segfault
+If you include a goterm and it doesn't have any genes associated with it, the graph will segfault. 
+This was one of my first projects and is about a year old. Hoping to revise it this summer.
